@@ -17,6 +17,11 @@
 
 Чтобы получить 2 дополнительных балла, следует прикрепить корректное описание запросов и ответов в формате JSON, как это было представлено в конспекте к модулю.
 
+## РЕШЕНИЕ
+
+[Ссылка на gogle-таблицу](https://docs.google.com/document/d/1MvOpcjLqSLXhiFgaT0WYeTVwp8q6XQ3bI2mISJrO5aE/edit?usp=sharing)
+[Ссылка на pdf](./assets/practice01_kazanskiy_Dmitriy.pdf)
+
 ## Требования
 
 - У всех методов должны быть описаны запросы и ответы.
